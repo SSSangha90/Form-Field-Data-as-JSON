@@ -1,0 +1,24 @@
+{
+  "name": "form-field-data-as-json",
+  "version": "1.0.0",
+  "description": "converting form fields to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SSSangha90/Form-Field-Data-as-JSON.git"
+  },
+  "keywords": [
+    "JSON",
+    "HTML",
+    "Forms"
+  ],
+  "author": "Sukhveer Sangha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SSSangha90/Form-Field-Data-as-JSON/issues"
+  },
+  "homepage": "https://github.com/SSSangha90/Form-Field-Data-as-JSON#readme"
+}
