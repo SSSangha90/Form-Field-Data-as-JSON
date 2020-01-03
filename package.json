@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/SSSangha90/Form-Field-Data-as-JSON/issues"
   },
-  "homepage": "https://github.com/SSSangha90/Form-Field-Data-as-JSON#readme"
+  "homepage": "https://github.com/SSSangha90/Form-Field-Data-as-JSON#readme",
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
 }
